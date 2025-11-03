@@ -58,7 +58,7 @@ My goal is to contribute to dynamic frontend projects as a **React.js Developer*
 
 **Bachelor of Science (Computers)**  
 *Mumbai University* — **7.04%**  
-📅 *Year of Passing:* 2024  
+📅 *Year of Passing:* 2025
 
 **Class XII (Maharashtra Board)** — 56.5% (2022)  
 **Class X (Maharashtra Board)** — 74.2% (2020)  
